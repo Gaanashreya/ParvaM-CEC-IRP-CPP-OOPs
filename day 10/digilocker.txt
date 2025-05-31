@@ -1,0 +1,96 @@
+User account Details are as follows: 
+User Name: gaana
+Password: 123abc
+Email_ID: gaana@gmail.com
+Aadhaar Card Number: 2147483647
+User Mobile Number: 1969248
+User account Details are as follows: 
+User Name: gaana
+Password: 123abc
+Email_ID: 453467
+Aadhaar Card Number: 2147483647
+User Mobile Number: 7277664
+User account Details are as follows: 
+User Name: gaana
+Password: gaana123
+Email_ID: gaana@gmail.com
+Aadhaar Card Number: 2147483647
+User Mobile Number: 12848224
+User account Details are as follows: 
+User Name: gaana
+Password: gaana123
+Email_ID: gaana@gmail.com
+Aadhaar Card Number: 2147483647
+User Mobile Number: 7539816
+Digi-locker has thse features: 
+	1.
+	2.
+	3.
+	4.
+	5.
+	6.
+	7.
+	8.
+	9.
+	10.
+	11.User account Details are as follows: 
+User Name: ghfgdfg
+Password: dfgdt35465
+Email_ID: vhgsfgfh
+Aadhaar Card Number: 5689859750
+User Mobile Number: 4677890978
+Digi-locker has thse features: 
+	1.many logins
+	2.ark mode
+-----------------------------------------------User account Details are as follows: 
+User Name: bhoomika bg
+Password: bhoomikabg123
+Email_ID: bhoomikabg@gmail.com
+Aadhaar Card Number: 123456789098
+User Mobile Number: 65432197897
+Digi-locker has thse features: 
+	1.hghfgh
+	2.hnfgj
+	3.jfgjhj
+	4.jhkjklj
+-----------------------------------------------User account Details are as follows: 
+User Name: gfdggjfgjl
+Password: w34567
+Email_ID: fgkggkll;
+Aadhaar Card Number: 465787542367
+User Mobile Number: 45769908754
+Digi-locker has thse features: 
+-----------------------------------------------User account Details are as follows: 
+User Name: bhoomika bg
+Password: bhoomikabg123
+Email_ID: bhoomikabg@gmail.com
+Aadhaar Card Number: 123456789098
+User Mobile Number: 65432197897
+Digi-locker has thse features: 
+	1.
+	2.
+	3.
+	4.
+-----------------------------------------------User account Details are as follows: 
+User Name: nfgfghkjhgg
+Password: fgdghj356
+Email_ID: xfhjfdf
+Aadhaar Card Number: 46808654356
+User Mobile Number: 46788765489
+Digi-locker has thse features: 
+	1.dghjkgj
+	2.hggdhj
+	3.jjljghfh
+	4.jgfggj
+-----------------------------------------------User account Details are as follows: 
+User Name: bhoomika bg
+Password: bhoomikabg123
+Email_ID: bhoomikabg@gmail.com
+Aadhaar Card Number: 123456789098
+User Mobile Number: 65432197897
+Digi-locker has thse features: 
+	1.grytuiyi
+	2.jghdtfg
+	3.ghdfretg
+	4.hfgtukj
+-----------------------------------------------
